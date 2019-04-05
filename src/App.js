@@ -23,6 +23,8 @@ class App extends Component {
           <div className="box">Hello, I am a box</div>
 
           <div className="another-box">I am totally another box</div>
+
+          <div className="another-box">I am box three</div>
         </header>
       </div>
     );
