@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+
+# ignore output from yarn build
+/build
+
+# ignore output from npm install
+package-lock.json
+
+# misc
+.DS_Store
+yarn-error.log*
+yarn-debug.log*
+.vscode/*
+/coverage.data
+/coverage/
+
+webpack-stats.json
