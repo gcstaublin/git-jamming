@@ -19,6 +19,10 @@ class App extends Component {
           >
             Learn React
           </a>
+
+          <div className="box">Hello, I am a box</div>
+
+          <div className="another-box">I am totally another box</div>
         </header>
       </div>
     );
